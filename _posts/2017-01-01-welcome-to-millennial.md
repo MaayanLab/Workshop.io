@@ -2,8 +2,8 @@
 layout: post
 title: "ARCHS4 Workshop"
 author: "Heesu"
-categories: documentation
-tags: [documentation,sample]
+categories: sample
+tags: 
 image: ARCHS4_banner.png
 ---
 
