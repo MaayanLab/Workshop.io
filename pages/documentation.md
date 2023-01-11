@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Apps
 category: documentation
 permalink: /documentation
 ---
