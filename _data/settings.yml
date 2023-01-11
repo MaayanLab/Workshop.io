@@ -1,14 +1,13 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: true
+  comments: false
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: 'heesukim628'
 
 menu:
-- {name: 'Workshop',       url: 'sample-posts'}
-- {name: 'Apps',      url: 'documentation'}
+- {name: 'Workshop',           url: 'workshop'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
@@ -16,7 +15,7 @@ menu:
 social:
 - {icon: 'twitter', link:    'https://twitter.com/MaayanLab'}
 - {icon: 'youtube', link:    'https://www.youtube.com/@AviMaayanLab'}
-- {icon: 'Home', link:   'https://labs.icahn.mssm.edu/maayanlab/'}
+- {icon: 'home',    link:   'https://labs.icahn.mssm.edu/maayanlab/'}
 
 
 # Customize site text
