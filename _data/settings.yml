@@ -1,6 +1,6 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
+  comments: true
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
@@ -15,8 +15,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link:    'https://twitter.com/MaayanLab'}
-- {icon: 'envelope', link:   'https://labs.icahn.mssm.edu/maayanlab/'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+- {icon: 'youtube', link:    'https://www.youtube.com/@AviMaayanLab'}
+- {icon: 'Home', link:   'https://labs.icahn.mssm.edu/maayanlab/'}
+
 
 # Customize site text
 pagination:

@@ -10,5 +10,5 @@ image: ARCHS4_banner.png
 ✨ **Click here to register ARCHS4 Workshop:** 
 <a href="https://forms.gle/dybLurJnfERRmExB8"><img alt="Registration Form" height="40" width="139" src="https://kstatic.googleusercontent.com/files/9f04faac24aed8bf8fb381029de951128d1d36373f89675265a6654d0c47b74b2d83a26b68b834ce2eea3bfe8001966f76895888138f135a81d099fc207c73bb"  /></a> 
 
-![ARCHS4 flyer](/assets/img/ARCHS4_draft.png)
+![ARCHS4 flyer](\assets\img\ARCHS4_draft.png)
 
