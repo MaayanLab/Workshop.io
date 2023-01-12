@@ -1,9 +1,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+onload="if(submitted) {window.location='thankyou.html';}"></iframe>
 <br><br><br>
 <h2 class = "reg-title">Registration </h2>
   
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSeT5TvvOUmxglDvnh24tytPpZcTe1fCGmjY_SeCwYrp0jRngA/formResponse" method="post">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSeT5TvvOUmxglDvnh24tytPpZcTe1fCGmjY_SeCwYrp0jRngA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
     
     <input class="w3-input" type="text" name="entry.1263169523" required>
     <label>Name*</label>
@@ -42,5 +44,6 @@
     <button class="w3-button w3-block w3-teal" type="submit">Submit</button>
     <br>
     <br>
+
 </form>
 
