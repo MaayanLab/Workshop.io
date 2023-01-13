@@ -7,14 +7,13 @@ disqus:
 google-ID: 'heesukim628'
 
 menu:
-- {name: 'Workshop',           url: 'workshop'}
 - {name: 'About',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link:    'https://twitter.com/MaayanLab'}
 - {icon: 'youtube', link:    'https://www.youtube.com/@AviMaayanLab'}
-- {icon: 'home',    link:   'https://labs.icahn.mssm.edu/maayanlab/'}
+- {icon: 'home',    link:    'https://labs.icahn.mssm.edu/maayanlab/'}
 
 
 # Customize site text
