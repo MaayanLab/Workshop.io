@@ -19,5 +19,5 @@ author:              "Heesu Kim"
 
 
 favicon: favicon.ico
-url: "https://maayanlab.github.io" # the base hostname & protocol for your site
+url: https://maayanlab.github.io # the base hostname & protocol for your site
 baseurl: /Workshop.io
