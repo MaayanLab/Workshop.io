@@ -18,7 +18,5 @@ author:              "Heesu Kim"
 #  path: rss-feed.xml
 
 
-favicon: favicon.io
-url: "https://maayanlab.github.io/"
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/Workshop.io/" # the subpath of your site, e.g. /blog
+favicon: favicon.ico
+url: "https://maayanlab.github.io/Workshop.io/"
