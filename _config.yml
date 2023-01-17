@@ -13,11 +13,15 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "ARCHS4 Workshop by the Ma'ayan Lab"
 description:	       " "
 author:              "Heesu Kim"
+
+baseurl: /Workshop.io/
+url: https://maayanlab.github.io/ # the base hostname & protocol for your site
+favicon: favicon.ico
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
 
 
-favicon: favicon.ico
-url: https://maayanlab.github.io # the base hostname & protocol for your site
-baseurl: /Workshop.io
+
+
+
