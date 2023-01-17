@@ -19,4 +19,4 @@ author:              "Heesu Kim"
 
 
 favicon: favicon.ico
-url: "https://maayanlab.github.io/Workshop.io/"
+baseurl: "https://maayanlab.github.io/Workshop.io/"
