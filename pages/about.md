@@ -7,7 +7,7 @@ permalink: /about
 ## ARCHS4: Massive Mining of Publicly Available RNA-seq Data from Human and Mouse
 -------------
 
-![ARCHS4 structure](/assets/images/ARCHS4pipeline.png)
+![ARCHS4 structure](https://github.com/MaayanLab/Workshop.io/blob/f7ad6c694f0e27ab10a12d61c2057ca9654798bc/assets/images/ARCHS4pipeline.png)
 
 **All RNA-seq and ChIP-seq sample and signature search ([ARCHS4]((https://maayanlab.cloud/archs4/)))** is a resource that provides access to gene and transcript counts uniformly processed from all human and mouse RNA-seq experiments from the [Gene Expression Omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/) and the [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra). 
 
@@ -35,7 +35,7 @@ Time (EST) | Object
 
 ## Ma'ayan Lab
 -------------
-![img](/assets/images/maayanlab_nov2022.png)
+![img](https://github.com/MaayanLab/Workshop.io/blob/f7ad6c694f0e27ab10a12d61c2057ca9654798bc/assets/images/maayanlab_nov2022.png)
 
 [The Ma’ayan Laboratory](https://labs.icahn.mssm.edu/maayanlab/) develops computational and mathematical methods to study the complexity of regulatory networks in mammalian cells. We apply machine learning and other statistical mining techniques to study how intracellular regulatory systems function as networks to control cellular processes such as differentiation, dedifferentiation, apoptosis and proliferation. We develop software systems to help experimental biologists form novel hypotheses from high-throughput data, while aiming to better understand the structure and function of regulatory networks in mammalian cellular and multi-cellular systems.
 
