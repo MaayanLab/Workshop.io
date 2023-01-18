@@ -5,4 +5,6 @@ permalink: /thankyou
 ---
 
 
-<br><br><br><br><br><br><br><br><br>
+We are looking forward to meeting you at the workshop. 
+
+{% include calendar.html url=page.url %}
