@@ -4,7 +4,6 @@ title: Thank You For Registration!
 permalink: /thankyou
 ---
 
-
-We are looking forward to meeting you at the workshop. 
-
-{% include calendar.html url=page.url %}
+<br><br>
+We are looking forward to meeting you soon at the workshop. 
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
