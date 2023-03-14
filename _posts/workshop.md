@@ -5,7 +5,7 @@ author: "Heesu Kim"
 categories: workshop
 tags: 
 image: workshop_banner.jpeg
-permalink: /workshop
+permalink: /overall
 ---
 
 Welcome to the Ma'ayan lab workshop series! Over the course of 8 workshops, we will be presenting a range of powerful and innovative tools that we have developed to help researchers in their analysis of biological data.
