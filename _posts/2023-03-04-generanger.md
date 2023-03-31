@@ -22,9 +22,9 @@ Time (EST) | Object
 2:55 PM  | Q&A Session
 
 
-More information is available at:<br>
+More information is available at:
 
-[GeneRanger Website](https://generanger.maayanlab.cloud/) | [TargetRanger Website](https://targetranger.maayanlab.cloud/)| [Ma'ayan Laboratory](https://labs.icahn.mssm.edu/maayanlab/)
+[GeneRanger Website](https://generanger.maayanlab.cloud/) | [TargetRanger Website](https://targetranger.maayanlab.cloud/) | [Ma'ayan Laboratory](https://labs.icahn.mssm.edu/maayanlab/)
 
 {% include registration.html url=page.url %}
 
