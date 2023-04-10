@@ -4,9 +4,27 @@ permalink: /instruction
 
 # LymeMIND
 
+![img](./assets/images/lyme/lymemind.jpeg)
 
 [LymeMIND](https://lymemind.org/) is designed to enable a systems medicine approach to identify novel biomarkers and new therapeutic opportunities. Through our network of collaborators, we are able to interrogate the complex biology of samples collected from Lyme-affected individuals using molecular profiling technologies and applying advanced statistical and machine learning approaches to move rapidly from “Big Data” to knowledge and improved understanding of the disease. LymeMIND is a part of the Icahn School of Medicine at Mount Sinai Hospital in New York City and is made possible by generous support from the Cohen Lyme & Tickborne Disease Initiative.
 
+
+---
+
+## Content
+
+### Log in
+### Collection
+[Create Collection](#create-collection) •
+[Manage Collection](#manage-collection)
+
+### Files
+[Upload Files](#upload-files) •
+[Edit Files](#edit-files) •
+[Manage Files](#manage-files)
+
+
+[Search for data](#search)
 
 ---
 
@@ -48,7 +66,7 @@ Look for files to add by searching for file names.
 
 ### Manage Collection
 
-Click the collection to copy the collection link to share, download the collection, or download metadata in JSON format. 
+Click the collection to `copy the collection link to share`, `download the collection`, or `download metadata` in JSON format. 
 ![img](./assets/images/lyme/collection_4.png)
 
 
@@ -71,7 +89,7 @@ Select the file and able to using the following functionalities.
 
 ### Upload Files
 
-Upload files by using drag and drop or searching for your directory. 
+Upload files by using `drag and drop` or `searching` for your directory. 
 
 ![img](./assets/images/lyme/upload_1.png)
 
@@ -94,14 +112,14 @@ By selecting a single file, you can use the following actions
 
 
 ### Edit Files
-You can easily edit the information on file name, collection, status, accessibility, visibility and metadata. 
+You can easily edit the information on `file name`, `collection`, `status`, `accessibility`, `visibility` and `metadata`. 
 
 ![img](./assets/images/lyme/file_3.png)
 
 
 
 ### Manage Files
-You can select multiple files to delete, add to a collection, and download files and metadata at once. 
+You can select multiple files to `delete`, `add to a collection`, `download files` and `download metadata` at once. 
 
 ![img](./assets/images/lyme/file_4.png)
 
@@ -111,7 +129,7 @@ You can select multiple files to delete, add to a collection, and download files
 ## Search
 
 
-You can use filters on different categories on left to search for particular data for your needs. 
+You can use `filters` on different categories on left to search for particular data for your needs. 
 
 ![img](./assets/images/lyme/search_1.png)
 
