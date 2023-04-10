@@ -23,8 +23,8 @@ permalink: /instruction
 [Edit Files](#edit-files) •
 [Manage Files](#manage-files)
 
-
-[Search for data](#search)
+### Search
+[Search for data](#search-for-data)
 
 ---
 
@@ -70,7 +70,8 @@ Click the collection to `copy the collection link to share`, `download the colle
 ![img](./assets/images/lyme/collection_4.png)
 
 
-Select the file and able to using the following functionalities.
+
+Select a file and able to using the following functionalities.
 ![img](./assets/images/lyme/collection_5.png)
 
 - View Details
@@ -127,7 +128,7 @@ You can select multiple files to `delete`, `add to a collection`, `download file
 ---
 
 ## Search
-
+### Search for Data
 
 You can use `filters` on different categories on left to search for particular data for your needs. 
 
