@@ -1,10 +1,12 @@
-# LymeCommons
 
 ---
+layout: page
+title: Instruction
+permalink: /instruction
+---
 
-[LymeCommons](https://lymecommons.org/) provides a unified resource to deposit, archive, and share data collected by researchers funded by the Cohen Lyme & Tickborne Disease Initiative. 
-
-Through our integrated knowledge base, we aim to help Lyme disease researchers identify novel biomarkers and therapeutic target candidates. [LymeMIND](https://lymemind.org/) brings together leaders in Lyme disease research through collaborations, educational events, and an annual conference.
+# LymeMIND
+---
 
 [LymeMIND](https://lymemind.org/) is designed to enable a systems medicine approach to identify novel biomarkers and new therapeutic opportunities. Through our network of collaborators, we are able to interrogate the complex biology of samples collected from Lyme-affected individuals using molecular profiling technologies and applying advanced statistical and machine learning approaches to move rapidly from “Big Data” to knowledge and improved understanding of the disease. LymeMIND is a part of the Icahn School of Medicine at Mount Sinai Hospital in New York City and is made possible by generous support from the Cohen Lyme & Tickborne Disease Initiative.
 
@@ -15,7 +17,6 @@ Through our integrated knowledge base, we aim to help Lyme disease researchers i
 You can use either `Google` or `Orcid` account to sign in LymeCommons. 
 
 <img src = "./assets/images/lyme/login_1.png" alt="login" width = "70%" height = "70%" title = "login">
-
 
 ---
 
