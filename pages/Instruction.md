@@ -3,7 +3,7 @@ permalink: /instruction
 ---
 
 # LymeMIND
----
+
 
 [LymeMIND](https://lymemind.org/) is designed to enable a systems medicine approach to identify novel biomarkers and new therapeutic opportunities. Through our network of collaborators, we are able to interrogate the complex biology of samples collected from Lyme-affected individuals using molecular profiling technologies and applying advanced statistical and machine learning approaches to move rapidly from “Big Data” to knowledge and improved understanding of the disease. LymeMIND is a part of the Icahn School of Medicine at Mount Sinai Hospital in New York City and is made possible by generous support from the Cohen Lyme & Tickborne Disease Initiative.
 
@@ -11,23 +11,24 @@ permalink: /instruction
 ---
 
 ## Log in
-You can use either Google or Orcid account to sign in LymeCommons. 
+LymeMIND allows you to use your own Google or Orchid account to sign in. 
 
 ![img](./assets/images/lyme/login_1.png)
+
 ---
 
 ## Collection
 
----
+
 
 With the collection, you can manage your file directories. 
 
 ### Create Collection
 
-You can start creating a collection by clicking Create Collection button. 
+Click on `Create Collection` on left to create a new file directory.  
 ![img](./assets/images/lyme/collection_1.png)
 
-You are able to set below fields on the collection.  
+Put the values on Collection settings.  
 - `Description`
 - `Name`
 - `Institution Logo`
@@ -39,7 +40,7 @@ You are able to set below fields on the collection.
 
 ![img](./assets/images/lyme/collection_2.png)
 
-You can search for files to add with the file name.
+Look for files to add by searching for file names. 
 
 ![img](./assets/images/lyme/collection_3.png)
 
@@ -47,11 +48,11 @@ You can search for files to add with the file name.
 
 ### Manage Collection
 
-When you click the collection, you can copy the collection link to share, download the collection, or download metadata in JSON format. 
+Click the collection to copy the collection link to share, download the collection, or download metadata in JSON format. 
 ![img](./assets/images/lyme/collection_4.png)
 
 
-You can select the file and able to use the following functionalities
+Select the file and able to using the following functionalities.
 ![img](./assets/images/lyme/collection_5.png)
 
 - View Details
@@ -66,17 +67,16 @@ You can select the file and able to use the following functionalities
 
 ## Files
 
----
+
 
 ### Upload Files
 
-You can upload files by using drag and drop or searching for your directory. 
-The number of files to upload at once is limited to 5 and there is no limit on file size. 
+Upload files by using drag and drop or searching for your directory. 
 
 ![img](./assets/images/lyme/upload_1.png)
 
 
-Once the file upload is completed, you can locate the file in your directory when you refresh the page. 
+Once the file upload is completed, refresh the page to check the new file in your directory.  
 
 You can search the file using its name. 
 ![img](./assets/images/lyme/file_1.png)
@@ -94,7 +94,7 @@ By selecting a single file, you can use the following actions
 
 
 ### Edit Files
-You can easily edit the information on file name, collection, status, accessibility, visibility and metadata using edit. 
+You can easily edit the information on file name, collection, status, accessibility, visibility and metadata. 
 
 ![img](./assets/images/lyme/file_3.png)
 
@@ -110,9 +110,8 @@ You can select multiple files to delete, add to a collection, and download files
 
 ## Search
 
----
 
-You can use filters on different categories on the search tab to search for particular data for your needs. 
+You can use filters on different categories on left to search for particular data for your needs. 
 
 ![img](./assets/images/lyme/search_1.png)
 
