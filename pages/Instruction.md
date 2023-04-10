@@ -44,7 +44,7 @@ With the collection, you can manage your file directories.
 ### Create Collection
 
 Click on `Create Collection` on left to create a new file directory.  
-![img](./assets/images/lyme/collection_1.png)
+![img](./assets/images/lyme/collection_1.png) <br><br>
 
 Put the values on Collection settings.  
 - `Description`
@@ -56,23 +56,23 @@ Put the values on Collection settings.
 - `Internal Collection`: Lower Directory
 - `Files`: Select files on LymeCommons to add to the collection
 
-![img](./assets/images/lyme/collection_2.png)
+![img](./assets/images/lyme/collection_2.png)<br><br>
 
 Look for files to add by searching for file names. 
 
-![img](./assets/images/lyme/collection_3.png)
+![img](./assets/images/lyme/collection_3.png)<br><br>
 
 
 
 ### Manage Collection
 
 Click the collection to `copy the collection link to share`, `download the collection`, or `download metadata` in JSON format. 
-![img](./assets/images/lyme/collection_4.png)
+![img](./assets/images/lyme/collection_4.png)<br><br>
 
 
 
 Select a file and able to using the following functionalities.
-![img](./assets/images/lyme/collection_5.png)
+![img](./assets/images/lyme/collection_5.png)<br><br>
 
 - View Details
 ![img](./assets/images/lyme/details_1.png)
@@ -92,13 +92,13 @@ Select a file and able to using the following functionalities.
 
 Upload files by using `drag and drop` or `searching` for your directory. 
 
-![img](./assets/images/lyme/upload_1.png)
+![img](./assets/images/lyme/upload_1.png)<br><br>
 
 
 Once the file upload is completed, refresh the page to check the new file in your directory.  
 
 You can search the file using its name. 
-![img](./assets/images/lyme/file_1.png)
+![img](./assets/images/lyme/file_1.png)<br><br>
 
 By selecting a single file, you can use the following actions
 - Edit
@@ -108,21 +108,20 @@ By selecting a single file, you can use the following actions
 - Download File
 - Download Metadata
 
-![img](./assets/images/lyme/file_2.png)
-
+![img](./assets/images/lyme/file_2.png)<br><br>
 
 
 ### Edit Files
 You can easily edit the information on `file name`, `collection`, `status`, `accessibility`, `visibility` and `metadata`. 
 
-![img](./assets/images/lyme/file_3.png)
+![img](./assets/images/lyme/file_3.png)<br><br>
 
 
 
 ### Manage Files
 You can select multiple files to `delete`, `add to a collection`, `download files` and `download metadata` at once. 
 
-![img](./assets/images/lyme/file_4.png)
+![img](./assets/images/lyme/file_4.png)<br><br>
 
 
 ---
@@ -132,7 +131,7 @@ You can select multiple files to `delete`, `add to a collection`, `download file
 
 You can use `filters` on different categories on left to search for particular data for your needs. 
 
-![img](./assets/images/lyme/search_1.png)
+![img](./assets/images/lyme/search_1.png)<br><br>
 
 ---
 
