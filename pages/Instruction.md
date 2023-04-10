@@ -2,7 +2,6 @@
 permalink: /instruction
 ---
 
-# LymeMIND
 
 ![img](./assets/images/lyme/lymemind.jpeg)
 
@@ -37,16 +36,14 @@ LymeMIND allows you to use your own Google or Orchid account to sign in.
 
 ## Collection
 
-
-
 With the collection, you can manage your file directories. 
 
 ### Create Collection
 
-Click on `Create Collection` on left to create a new file directory.  
+You can click on `Create Collection` on left to create a new file directory.  
 ![img](./assets/images/lyme/collection_1.png) <br><br>
 
-Put the values on Collection settings.  
+Now you will see the window for a new collection. You can put values on the below fields.  
 - `Description`
 - `Name`
 - `Institution Logo`
@@ -58,7 +55,7 @@ Put the values on Collection settings.
 
 ![img](./assets/images/lyme/collection_2.png)<br><br>
 
-Look for files to add by searching for file names. 
+You can add multiple files when you create a collection. The file should be already uploaded on LymeMIND and you can search for the file with its name.  
 
 ![img](./assets/images/lyme/collection_3.png)<br><br>
 
@@ -66,19 +63,20 @@ Look for files to add by searching for file names.
 
 ### Manage Collection
 
-Click the collection to `copy the collection link to share`, `download the collection`, or `download metadata` in JSON format. 
+Based on the collection level, you can get the link to share using `copy the collection link to share`. With `download the collection` you can download all files under the collection at once, and able to download metadata in JSON format using `download metadata`. 
+Click the name of the collection to access it. 
 ![img](./assets/images/lyme/collection_4.png)<br><br>
 
 
 
-Select a file and able to using the following functionalities.
+You can select a file and able to use the following functionalities on the file level.
 ![img](./assets/images/lyme/collection_5.png)<br><br>
 
-- View Details
+- View Details: See the details of file
 ![img](./assets/images/lyme/details_1.png)
 
-- Remove From Collection
-- Copy link
+- Remove From Collection: Remove the file from the collection. The file will still be available on LymeMIND.
+- Copy link: Get the link to download the file
 - Download File
 - Download Metadata
 
@@ -90,12 +88,12 @@ Select a file and able to using the following functionalities.
 
 ### Upload Files
 
-Upload files by using `drag and drop` or `searching` for your directory. 
+To upload files, you can either drag and drop or navigate your local directory. 
 
 ![img](./assets/images/lyme/upload_1.png)<br><br>
 
 
-Once the file upload is completed, refresh the page to check the new file in your directory.  
+Once the file upload is completed, refresh the page to check the new file available in your directory.  
 
 You can search the file using its name. 
 ![img](./assets/images/lyme/file_1.png)<br><br>
@@ -112,14 +110,14 @@ By selecting a single file, you can use the following actions
 
 
 ### Edit Files
-You can easily edit the information on `file name`, `collection`, `status`, `accessibility`, `visibility` and `metadata`. 
+You can easily edit `File name`, `Collection`, `Status`, `Accessibility`, `Visibility`, and `Metadata`. From the editing window, you can download the file, and metadata or even delete the file from LymeMIND. 
 
 ![img](./assets/images/lyme/file_3.png)<br><br>
 
 
 
 ### Manage Files
-You can select multiple files to `delete`, `add to a collection`, `download files` and `download metadata` at once. 
+You can select multiple files to `Delete`, `Add to a collection`, `Download files` and `Download metadata` at once. 
 
 ![img](./assets/images/lyme/file_4.png)<br><br>
 
@@ -129,7 +127,7 @@ You can select multiple files to `delete`, `add to a collection`, `download file
 ## Search
 ### Search for Data
 
-You can use `filters` on different categories on left to search for particular data for your needs. 
+You can use `Filters` on different categories on left to search for the particular type of data on your needs. 
 
 ![img](./assets/images/lyme/search_1.png)<br><br>
 
