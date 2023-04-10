@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Instruction
 permalink: /instruction
 ---
 
