@@ -2,7 +2,6 @@
 permalink: /instruction
 ---
 
-## LymeMIND
 
 ![img](./assets/images/lyme/lymemind.jpeg)
 
@@ -15,12 +14,12 @@ permalink: /instruction
 
 ### Log in
 ### Collection
-[Create Collection](#create-collection) •
+[Create Collection](#create-collection)  • 
 [Manage Collection](#manage-collection)
 
 ### Files
-[Upload Files](#upload-files) •
-[Edit Files](#edit-files) •
+[Upload Files](#upload-files)  • 
+[Edit Files](#edit-files)  • 
 [Manage Files](#manage-files)
 
 ### Search
@@ -29,7 +28,7 @@ permalink: /instruction
 ---
 
 ## Log in
-LymeMIND allows you to use your own Google or Orchid account to sign in. 
+LymeMIND allows you to use your own Google or Orcid account to sign in. 
 
 ![img](./assets/images/lyme/login_1.png)
 
@@ -70,7 +69,7 @@ Click the name of the collection to access it.
 
 
 
-When you select a file, you will see the following functionalities on the file level.
+When you select a file in the collection, you will see the following functionalities on the file level.
 ![img](./assets/images/lyme/collection_5.png)<br><br>
 
 - View Details: See the details of file
