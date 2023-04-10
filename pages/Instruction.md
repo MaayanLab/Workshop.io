@@ -2,6 +2,7 @@
 permalink: /instruction
 ---
 
+## LymeMIND
 
 ![img](./assets/images/lyme/lymemind.jpeg)
 
@@ -51,7 +52,7 @@ Now you will see the window for a new collection. You can put values on the belo
 - `Make This Collection Visible`: Whether other users can see the data. 
 - `Parent Collection`: Upper Directory
 - `Internal Collection`: Lower Directory
-- `Files`: Select files on LymeCommons to add to the collection
+- `Files`: Select files on LymeMIND to add to the collection
 
 ![img](./assets/images/lyme/collection_2.png)<br><br>
 
@@ -127,7 +128,7 @@ It's also feasible to select multiple files to `Delete`, `Add to a collection`, 
 ## Search
 ### Search for Data
 
-You may use `Filters` on different categories on left to search for the particular type of data on your needs. 
+You may use `Filters` on different categories to search for the particular type of data on your needs. 
 
 ![img](./assets/images/lyme/search_1.png)<br><br>
 
