@@ -55,7 +55,7 @@ Now you will see the window for a new collection. You can put values on the belo
 
 ![img](./assets/images/lyme/collection_2.png)<br><br>
 
-You can add multiple files when you create a collection. The file should be already uploaded on LymeMIND and you can search for the file with its name.  
+You are able to add multiple files when you create a collection. The file should be already uploaded on LymeMIND and you can search for the file with its name.  
 
 ![img](./assets/images/lyme/collection_3.png)<br><br>
 
@@ -69,7 +69,7 @@ Click the name of the collection to access it.
 
 
 
-You can select a file and able to use the following functionalities on the file level.
+When you select a file, you will see the following functionalities on the file level.
 ![img](./assets/images/lyme/collection_5.png)<br><br>
 
 - View Details: See the details of file
@@ -95,7 +95,7 @@ To upload files, you can either drag and drop or navigate your local directory.
 
 Once the file upload is completed, refresh the page to check the new file available in your directory.  
 
-You can search the file using its name. 
+It is possible to search the file using its name. 
 ![img](./assets/images/lyme/file_1.png)<br><br>
 
 By selecting a single file, you can use the following actions
@@ -110,14 +110,14 @@ By selecting a single file, you can use the following actions
 
 
 ### Edit Files
-You can easily edit `File name`, `Collection`, `Status`, `Accessibility`, `Visibility`, and `Metadata`. From the editing window, you can download the file, and metadata or even delete the file from LymeMIND. 
+From the editing window, you can easily edit `File name`, `Collection`, `Status`, `Accessibility`, `Visibility`, and `Metadata`. It also allows you download the file, and metadata or even delete the file from LymeMIND. 
 
 ![img](./assets/images/lyme/file_3.png)<br><br>
 
 
 
 ### Manage Files
-You can select multiple files to `Delete`, `Add to a collection`, `Download files` and `Download metadata` at once. 
+It's also feasible to select multiple files to `Delete`, `Add to a collection`, `Download files` and `Download metadata` at once. 
 
 ![img](./assets/images/lyme/file_4.png)<br><br>
 
@@ -127,7 +127,7 @@ You can select multiple files to `Delete`, `Add to a collection`, `Download file
 ## Search
 ### Search for Data
 
-You can use `Filters` on different categories on left to search for the particular type of data on your needs. 
+You may use `Filters` on different categories on left to search for the particular type of data on your needs. 
 
 ![img](./assets/images/lyme/search_1.png)<br><br>
 
