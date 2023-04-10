@@ -11,10 +11,9 @@ permalink: /instruction
 ---
 
 ## Log in
-You can use either `Google` or `Orcid` account to sign in LymeCommons. 
+You can use either Google or Orcid account to sign in LymeCommons. 
 
-<img src = "./assets/images/lyme/login_1.png" alt="login" width = "70%" height = "70%" title = "login">
-
+![img](./assets/images/lyme/login_1.png)
 ---
 
 ## Collection
@@ -26,9 +25,9 @@ With the collection, you can manage your file directories.
 ### Create Collection
 
 You can start creating a collection by clicking Create Collection button. 
-<img src = "./assets/images/lyme/collection_1.png" alt="collection" width = "70%" height = "70%" title = "collection">
+![img](./assets/images/lyme/collection_1.png)
 
-You are able to set below on the collection.  
+You are able to set below fields on the collection.  
 - `Description`
 - `Name`
 - `Institution Logo`
@@ -38,11 +37,11 @@ You are able to set below on the collection.
 - `Internal Collection`: Lower Directory
 - `Files`: Select files on LymeCommons to add to the collection
 
-<img src = "./assets/images/lyme/collection_2.png" alt="collection" width = "70%" height = "70%" title = "collection">
+![img](./assets/images/lyme/collection_2.png)
 
 You can search for files to add with the file name.
 
-<img src = "./assets/images/lyme/collection_3.png" alt="collection" width = "70%" height = "70%" title = "collection">
+![img](./assets/images/lyme/collection_3.png)
 
 
 
@@ -97,7 +96,7 @@ By selecting a single file, you can use the following actions
 ### Edit Files
 You can easily edit the information on file name, collection, status, accessibility, visibility and metadata using edit. 
 
-<img src = "./assets/images/lyme/file_3.png" alt="file" width = "70%" height = "70%" title = "file">
+![img](./assets/images/lyme/file_3.png)
 
 
 
@@ -119,6 +118,6 @@ You can use filters on different categories on the search tab to search for part
 
 ---
 
-More information is available at: [API](https://github.com/MaayanLab/datacrossways) | [Twitter](https://twitter.com/lymemind) | [YouTube](https://www.youtube.com/channel/UCRUjdghBT0pyNSx14ukrKDw)
+More information is available at: [API](https://github.com/MaayanLab/datacrossways),  [Twitter](https://twitter.com/lymemind),  [YouTube](https://www.youtube.com/channel/UCRUjdghBT0pyNSx14ukrKDw)
 
-If you have any questions, feel free to reach out via [email](lymemind@mssm.edu).
+If you have any questions, feel free to contact us at <lymemind@mssm.edu>.
