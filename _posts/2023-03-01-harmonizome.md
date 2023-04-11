@@ -12,7 +12,7 @@ permalink: /harmonizome
 To facilitate access to and learning from biomedical Big Data, we created the Harmonizome: a collection of information about genes and proteins from 112 datasets provided by 65 online resources.
 
 ![harmonizome stats](./assets/images/harmonizome_1.png)
-
+<br>
 In our workshop, you'll get hands-on experience with Harmonizome and learn how to utilize its powerful features for functional analysis and data integration in your research.
 
 The workshop is designed to provide overall information and demonstration on Harmonizome for users at all levels of expertise. It will be led by **Ido Diamant** who is a Bioinformatics Software Engineer at the Ma’ayan Laboratory.
