@@ -15,7 +15,7 @@ Each workshop will provide a hands-on learning experience, allowing you to explo
 <br><br>
 ## Ma'ayan Lab
 -------------
-![img](./assets/images/maayanlab_apr2023.png)
+![img](./assets/images/maayanlab_april2023.png)
 
 [The Ma’ayan Laboratory](https://labs.icahn.mssm.edu/maayanlab/) develops computational and mathematical methods to study the complexity of regulatory networks in mammalian cells. We apply machine learning and other statistical mining techniques to study how intracellular regulatory systems function as networks to control cellular processes such as differentiation, dedifferentiation, apoptosis and proliferation. We develop software systems to help experimental biologists form novel hypotheses from high-throughput data, while aiming to better understand the structure and function of regulatory networks in mammalian cellular and multi-cellular systems.
 
