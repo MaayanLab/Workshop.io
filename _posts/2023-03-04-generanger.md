@@ -12,7 +12,7 @@ permalink: /generanger
 
 For the workshop, we will provide how to use GeneRanger to analyze your own gene sets and discover new connections in your data and how to use TargetRanger to explore the therapeutic potential of your favorite compounds.
 
-The workshop is designed to provide overall information about GeneRanger and TargetRanger for users at all levels of expertise. It will be led by **Nasheath Ahmed** who is a Bioinformatics Software Engineer at the Ma’ayan Laboratory.
+The workshop is designed to provide overall information and demonstration on GeneRanger and TargetRanger for users at all levels of expertise. It will be led by **Nasheath Ahmed** who is a Bioinformatics Software Engineer at the Ma’ayan Laboratory.
 
 <br>The schedule for the workshop is as follows. <br>
 
