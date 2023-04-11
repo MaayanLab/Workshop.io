@@ -9,9 +9,15 @@ permalink: /generanger
 ---
 
 [GeneRanger](https://generanger.maayanlab.cloud/gene/A2M?database=ARCHS4) is a web-server application that provides access to processed data about the expression of human genes and proteins across human cell types, tissues, and cell lines from several atlases. 
+<br>
 
+![img](./assets/images/generanger_1.png) 
+<br>
 [TargetRanger](https://targetranger.maayanlab.cloud/) is a web-server application that identifies targets from user-inputted RNA-seq samples collected from the cells we wish to target. By comparing the inputted samples with processed RNA-seq and proteomics data from several atlases, TargetRanger identifies genes that are highly expressed in the target cells while lowly expressed across normal human cell types, tissues, and cell lines. <br>
+<br>
 
+![img](./assets/images/targetranger_1.png) 
+<br>
 For the workshop, we will provide how to use GeneRanger to analyze your own gene sets and discover new connections in your data and how to use TargetRanger to explore the therapeutic potential of your favorite compounds.
 
 The workshop is designed to provide overall information and demonstration on GeneRanger and TargetRanger for users at all levels of expertise. It will be led by **Nasheath Ahmed** who is a Bioinformatics Software Engineer at the Ma’ayan Laboratory.
