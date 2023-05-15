@@ -15,7 +15,7 @@ The ARCHS4 website provides the uniformly processed data for download and progra
 Users can search and browse the data by metadata enhanced annotations, and can submit their own gene sets for search. Subsets of selected samples can be downloaded as a tab delimited text file that is ready for loading into the R programming environment. To generate the ARCHS4 resource, the kallisto aligner is applied in an efficient parallelized cloud infrastructure. Human and mouse samples are aligned against GRCh38 and GRCm39 with [Ensembl](https://uswest.ensembl.org/index.html) annotation (Ensembl 107).
 
 
-
+-----
 ## ARCHS4 Workshop
 The workshop will be presented by [Alexander Lachmann, Ph.D.](https://profiles.mountsinai.org/alexander-lachmann), who is an assistant professor at Ma'ayan laboratory and developed ARCHS4.  
 
@@ -28,7 +28,7 @@ During the workshop, we will cover
 - Kallisto, one of the leading algorithms on gene alignment
 
 
-
+-----
 ## Ma'ayan Lab
 [The Ma’ayan Laboratory](https://labs.icahn.mssm.edu/maayanlab/) develops computational and mathematical methods to study the complexity of regulatory networks in mammalian cells. We apply machine learning and other statistical mining techniques to study how intracellular regulatory systems function as networks to control cellular processes such as differentiation, dedifferentiation, apoptosis and proliferation. We develop software systems to help experimental biologists form novel hypotheses from high-throughput data, while aiming to better understand the structure and function of regulatory networks in mammalian cellular and multi-cellular systems.
 
