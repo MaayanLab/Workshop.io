@@ -6,7 +6,7 @@ permalink: /about
 
 ## ARCHS4: Massive Mining of Publicly Available RNA-seq Data from Human and Mouse
 
-![ARCHS4 structure](./assets/img/ARCHS4pipeline.png)
+![ARCHS4 structure](./assets/images/ARCHS4pipeline.png)
 
 **All RNA-seq and ChIP-seq sample and signature search ([ARCHS4]((https://maayanlab.cloud/archs4/)))** is a resource that provides access to gene and transcript counts uniformly processed from all human and mouse RNA-seq experiments from the [Gene Expression Omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/) and the [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra). 
 
